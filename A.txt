@@ -1,0 +1,3 @@
+this is library managment system. This website develop for University of sabaragamuwa faculty of applied sciences.
+ There are 5 departments in Applied science faculty. Student can signup and signin and can do tasksin this system. 
+admin can manage the whole system. Html, css, javascript use for frontend and PHP and Mysql use for Backend Development
